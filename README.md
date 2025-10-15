@@ -182,5 +182,3 @@ chatbot_springboard/
 This project is licensed under the **MIT License** — feel free to modify and share.
 
 ---
-
-Would you like me to generate a matching **`requirements.txt`** file for this project too (so it runs immediately after cloning)?
